@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements itemClickListener
                     MY_PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE);
         //____________________________________________________________________________________
 
-        empty =findViewById(R.id.empty);
+        empty = findViewById(R.id.empty);
 
         folderRecycler = findViewById(R.id.folderRecycler);
         folderRecycler.addItemDecoration(new MarginDecoration(this));

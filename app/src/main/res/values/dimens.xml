@@ -6,8 +6,9 @@
   <dimen name="item_margin">1dp</dimen>
   <dimen name="item_margin_half">1dp</dimen>
 
-  <dimen name="folder_column_width">120dp</dimen>
+  <!-- Adjusted Static Column width for 436dpi screen. -->
+  <dimen name="folder_column_width">145dp</dimen>
 
-  <dimen name="picture_column_width">90dp</dimen>
+  <dimen name="picture_column_width">145dp</dimen>
 
 </resources>
